@@ -46,42 +46,31 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 	<table>
 		<thead>
 			<tr>
-				<th>S.NO</th>
-				<th>SYSTEM REQUIREMETS</th>
-				<th>SYSTEM REQUIREMENTS</th>
+				<th>I'D</th>
+				<th>DESCRIPTION</th>
 				<th>STATUS</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>&nbsp;1</td>
-				<td>Programming Language used&nbsp;</td>
-				<td>C Language&nbsp;</td>
+				<td>&nbsp;HR_01</td>
+				<td>Car in ACC mode&nbsp;</td>
 				<td>Implemented&nbsp;</td>
 			</tr>
 			<tr>
-				<td>&nbsp;2</td>
-				<td>ARM based Microcontroller&nbsp;</td>
-				<td>STM32 Discovery kit&nbsp;</td>
-				<td>&nbsp;Implemented&nbsp;</td>
+				<td><span style="font-style: normal; font-weight: 400;">&nbsp;HR_02</span></td>
+				<td>Car in ignition mode&nbsp;</td>
+				<td>Implemented&nbsp;</td>
 			</tr>
 			<tr>
-				<td>&nbsp;3</td>
-				<td>Operating System&nbsp;</td>
-				<td>Windows&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented&nbsp;</span>&nbsp;</td>
+				<td>&nbsp;&nbsp;HR_03</td>
+				<td>Turning on the wiper&nbsp;</td>
+				<td>&nbsp;Implemented</td>
 			</tr>
 			<tr>
-				<td>&nbsp;4</td>
-				<td>RAM&nbsp;</td>
-				<td>Min 4 GB&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented&nbsp;</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;5</td>
-				<td>Hard Disk&nbsp;</td>
-				<td>Min 10 GB&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented&nbsp;</span>&nbsp;</td>
+				<td>&nbsp;&nbsp;HR_04</td>
+				<td>&nbsp;Turning off the wiper</td>
+				<td>&nbsp;Implemented</td>
 			</tr>
 		</tbody>
 	</table>
@@ -97,34 +86,34 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 	<table>
 		<thead>
 			<tr>
-				<th>S.NO</th>
-				<th>SYSTEM REQUIREMETS</th>
+				<th>I'D</th>
+				<th>DESCRIPTION</th>
 				<th>STATUS</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>&nbsp;1</td>
+				<td>&nbsp;LR_01</td>
 				<td>ON</td>
 				<td>Implemented</td>
 			</tr>
 			<tr>
-				<td>&nbsp;2</td>
+				<td>&nbsp;LR_02</td>
 				<td>Press wiper switch&nbsp;</td>
 				<td>&nbsp;Implemented</td>
 			</tr>
 			<tr>
-				<td>&nbsp;3</td>
+				<td>&nbsp;LR_03</td>
 				<td>Microcontroller supply</td>
 				<td><span style="font-style: normal; font-weight: 400;">Implemented</span><br></td>
 			</tr>
 			<tr>
-				<td>&nbsp;4</td>
+				<td>&nbsp;LR_04</td>
 				<td>Activate wiper blades</td>
 				<td><span style="font-style: normal; font-weight: 400;">Implemented</span><br></td>
 			</tr>
 			<tr>
-				<td>&nbsp;5</td>
+				<td>&nbsp;LR_05</td>
 				<td>OFF</td>
 				<td><span style="font-style: normal; font-weight: 400;">Implemented</span>&nbsp;</td>
 			</tr>
