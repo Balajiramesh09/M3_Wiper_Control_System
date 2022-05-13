@@ -109,7 +109,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 			</tr>
 			<tr>
 				<td>&nbsp;LR_04</td>
-				<td>Activate wiper blades</td>
+				<td>Activating wiper blades</td>
 				<td><span style="font-style: normal; font-weight: 400;">Implemented</span><br></td>
 			</tr>
 			<tr>
