@@ -9,3 +9,17 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>SDLC ACTIVITY BASED LEARNING:</h2>
 
+* CODACY ANALYSIS:
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48223813cffc4134bb419a9ab9b32096)](https://www.codacy.com/gh/Balajiramesh09/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Balajiramesh09/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+
+* CODIGA ANALYSIS:
+
+<img width="743" alt="codiga analysis" src="https://user-images.githubusercontent.com/101571637/168279171-27c77368-f914-4802-a30b-58e7e73c8999.PNG">
+
+
+<img width="118" alt="COde quality" src="https://user-images.githubusercontent.com/101571637/168279433-c7239046-eb17-4c4b-abb7-566ef83284b7.PNG">
+
+<img width="66" alt="Code grade" src="https://user-images.githubusercontent.com/101571637/168279524-e8ccfad5-c310-42eb-a244-820a257e7d6d.PNG">
+
+
