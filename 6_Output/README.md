@@ -28,3 +28,6 @@
 * Turning OFF the wiper
 <img width="940" alt="pressed with third time" src="https://user-images.githubusercontent.com/101571637/168276097-0766399d-37ec-4bdd-851c-2799d9604d1e.PNG">
 
+
+* This folder contains the output images of this project 
+
