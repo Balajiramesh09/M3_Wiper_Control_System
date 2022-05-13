@@ -73,3 +73,5 @@
 	</table>
 </body>
 </html>
+
+* This folder contains the necessary test cases for this project.
